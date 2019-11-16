@@ -71,55 +71,47 @@ img{
 	left: 75%;
 }
 
+.a .b .c .d .e .f div{
+		font-size: 17px;
+	font-color: black;
+	font-family: Sitka Small;
+}
+
 .a{
 	position: absolute;
 	top: 54%;
 	left: 22%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
 
 .b{
 	position: absolute;
 	top: 54%;
 	left: 48%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
+
 .c{
 	position: absolute;
 	top: 54%;
 	left: 77.5%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
+
 .d{
 	position: absolute;
 	top: 89%;
 	left: 19.5%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
+
 .e{
 	position: absolute;
 	top: 89%;
 	left: 49%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
 .f{
 	position: absolute;
 	top: 89%;
 	left: 78%;
-	font-size: 17px;
-	font-color: black;
-	font-family: Sitka Small;
 }
+
 ul{
 	list-style-type: none;
 	margin: 0;

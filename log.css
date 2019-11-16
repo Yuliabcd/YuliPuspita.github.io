@@ -21,15 +21,13 @@ label{
 .kotaklogin{
 	text-align: center;
 	background: #676060;
-	width: 1190px;
+	width: 800px;
 	height: 500px;
-	margin: 50px;
-	padding: 5px 30px;
-	border: none;
 	border-radius: 30px;
 	font-size: 15pt;
 	position: absolute;
-	top: 35px;
+	top: 15%;
+	left: 20%;
 }
 
 .Login{
@@ -53,10 +51,9 @@ label{
 	color: #00008B;
 }
 
-.buat{
+a .buat{
 	font-size: 10pt;
 	color: red;
-	font-weight: bold;
 }
 
 .b_login{

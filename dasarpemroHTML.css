@@ -22,14 +22,16 @@ body{
   top: 58px;
 }
 
+div p{
+    font color: black;
+}
+
 .mari{
   position: absolute;
   left: 36%;
 	top: 7%;
 	font-family: Sitka Small;
   font-size: 30px;
-  font-weight: bold;
-  font color: black;
 }
 
 .dasar{
@@ -38,7 +40,6 @@ body{
   top: 18%;
   font-family: Berlin Sans FB;
   font-size: 25px;	
-  font color: black;
 }
 
 .pengertian{
@@ -47,7 +48,6 @@ body{
   top: 26%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -58,7 +58,6 @@ body{
   top: 41%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -69,8 +68,6 @@ body{
   top: 53%;
   font-family: Berlin Sans FB;
   font-size: 30px;  
-  font color: black;
-  font-weight: bold;
 }
 
 .perhatikan{
@@ -79,7 +76,6 @@ body{
   top: 86%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -90,8 +86,6 @@ body{
   top: 94%;
   font-family: Berlin Sans FB;
   font-size: 30px;  
-  font color: black;
-  font-weight: bold;
 }
 
 .dari{
@@ -100,7 +94,6 @@ body{
   top: 103%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -111,9 +104,7 @@ body{
   top: 110%;
   font-family: Berlin Sans FB;
   font-size: 22px;  
-  font color: black;
   width: 1100px;
-  font-weight: bold;
 }
 
 .tag{
@@ -122,7 +113,6 @@ body{
   top: 115%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -133,7 +123,6 @@ body{
   top: 122%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -144,7 +133,6 @@ body{
   top: 152%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -155,7 +143,6 @@ body{
   top: 164%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -166,7 +153,6 @@ body{
   top: 176%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -177,7 +163,6 @@ body{
   top: 197%;
   font-family: Berlin Sans FB;
   font-size: 22px;  
-  font color: black;
   width: 1100px;
   font-weight: bold;
 }
@@ -188,7 +173,6 @@ body{
   top: 202%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -199,7 +183,6 @@ body{
   top: 206%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 
@@ -210,7 +193,6 @@ body{
   top: 218%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -221,7 +203,6 @@ body{
   top: 228%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -232,9 +213,7 @@ body{
   top: 234%;
   font-family: Berlin Sans FB;
   font-size: 22px;  
-  font color: black;
   width: 1100px;
-  font-weight: bold;
 }
 
 .atribut{
@@ -243,7 +222,6 @@ body{
   top: 240%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -254,7 +232,6 @@ body{
   top: 248%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }
@@ -265,7 +242,6 @@ body{
   top: 261%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
-  font color: black;
   width: 1080px;
   text-align: justify;
 }

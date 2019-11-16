@@ -14,14 +14,13 @@ body{
 .kotakmasuk{
 	text-align: center;
 	background: #676060;
-	width: 1190px;
+	width: 800px;
 	height: 700px;
-	margin: 50px;
-	padding: 20px 18px;
 	border-radius: 30px;
 	font-size: 15pt;
 	position: absolute;
-	top: 35px;
+	top: 15%;
+	left: 20%;
 }
 
 .Daftar{

@@ -32,7 +32,6 @@ body{
 img{
 	width :100px;
 	height: 100px;
-
 }
 
 .html{
@@ -72,7 +71,7 @@ img{
 }
 
 .a .b .c .d .e .f div{
-		font-size: 17px;
+	font-size: 17px;
 	font-color: black;
 	font-family: Sitka Small;
 }
@@ -118,7 +117,6 @@ ul{
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
-
 }
 
 ul {

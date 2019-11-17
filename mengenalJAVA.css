@@ -1,9 +1,8 @@
 body{
-  
   font-family: Segoe UI;
   background : #56BBB1;
-
 }
+
 .taksbar{
   color: #56BBB1;
   position: fixed;
@@ -28,8 +27,6 @@ body{
 	top: 7%;
 	font-family: Sitka Small;
   font-size: 30px;
-  font-weight: bold;
-  font color: black;
 }
 
 .mengenal{
@@ -38,51 +35,37 @@ body{
   top: 18%;
   font-family: Berlin Sans FB;
   font-size: 25px;	
-  font color: black;
+}
+
+.pengertian, .java, .akrab, .anda{
+  font-family: Berlin Sans FB;
+  font-size: 20px;
+  width: 980px;
+  text-align: justify; 
 }
 
 .pengertian{
   position: absolute;
   left: 10%;
   top: 26%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 980px;
-  text-align: justify; 
 }
 
 .java{
   position: absolute;
   left: 10%;
   top: 39%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 980px;
-  text-align: justify;
 }
 
 .akrab{
   position: absolute;
   left: 10%;
   top: 58%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 980px;
-  text-align: justify;
 }
 
 .anda{
   position: absolute;
   left: 10%;
   top: 77%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 980px;
-  text-align: justify;
 }
 
 ul{

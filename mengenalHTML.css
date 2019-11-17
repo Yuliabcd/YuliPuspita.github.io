@@ -1,9 +1,8 @@
 body{
-  
   font-family: Segoe UI;
   background : #56BBB1;
-
 }
+
 .taksbar{
   color: #56BBB1;
   position: fixed;
@@ -24,13 +23,11 @@ body{
 }
 
 .mari{
-  	position: absolute;
-  	left: 36%;
-  	top: 7%;
-  	font-family: Sitka Small;
-  	font-size: 30px;
-  	font-weight: bold;
-  	font color: black;
+  position: absolute;
+	left: 36%;
+ 	top: 7%;
+ 	font-family: Sitka Small;
+ 	font-size: 30px;
 }
 
 .mengenal{
@@ -39,51 +36,37 @@ body{
   top: 18%;
   font-family: Berlin Sans FB;
 	font-size: 25px;	
-	font color: black;
+}
+
+.html, .adapun, .untuk, .contoh, .berikut{
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  width: 1000px;
+  text-align: justify;
 }
 
 .html{
   position: absolute;
   left: 10%;
   top: 26%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;	
-  font color: black;
-  width: 1000px;
-  text-align: justify;
 }
 
 .adapun{
 	position: absolute;
   left: 10%;
   top: 35%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;	
-  font color: black;
-  width: 1000px;
-  text-align: justify;
 }
 
 .untuk{
 	position: absolute;
   left: 10%;
 	top: 44%;
-	font-family: Berlin Sans FB;
-	font-size: 20px;	
- 	font color: black;
-  width: 1000px;
-  text-align: justify;
 }
 
 .contoh{
 	position: absolute;
   left: 10%;
 	top: 57%;
-	font-family: Berlin Sans FB;
-	font-size: 20px;	
-	font color: black;
-  width: 1000px;
-  text-align: justify;
 }
 
 .a{
@@ -94,22 +77,16 @@ body{
 
 .berikut{
 	position: absolute;
-  	left: 10%;
-  	top: 105%;
-  	font-family: Berlin Sans FB;
-  	font-size: 20px;	
-  	font color: black;
-  	width: 1100px;
+  left: 10%;
+  top: 105%;
 }
 
 .b{
 	position: absolute;
-  	left: 10%;
-  	top: 115%;
-  	font-family: Berlin Sans FB;
-  	font-size: 20px;	
-  	font color: black;
-  	width: 1100px;
+  left: 10%;
+  top: 115%;
+  font-family: Berlin Sans FB;
+  width: 1100px;
 }
 
 ul{

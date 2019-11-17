@@ -1,9 +1,8 @@
 body{
-  
   font-family: Segoe UI;
   background : #56BBB1;
-
 }
+
 .taksbar{
   color: #56BBB1;
   position: fixed;
@@ -28,8 +27,6 @@ body{
 	top: 7%;
 	font-family: Sitka Small;
   font-size: 30px;
-  font-weight: bold;
-  font color: black;
 }
 
 .macam{
@@ -38,39 +35,37 @@ body{
   top: 18%;
   font-family: Berlin Sans FB;
   font-size: 25px;	
-  font color: black;
+}
+
+.java, .integer, .floating, .char, .boolean, .class, .dalam, .pada, .array, .interface{
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  width: 1080px;
+  text-align: justify;
 }
 
 .java{
   position: absolute;
   left: 10%;
   top: 26%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
+}
+
+.A, .B{
+  font-family: Tekton Pro;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .A{
   position: absolute;
   left: 10%;
   top: 37%;
-  font-family: Tekton Pro;
-  font-size: 25px;  
-  font color: black;
-  font-weight: bold;
 }
 
 .integer{
   position: absolute;
   left: 10%;
   top: 42%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .a{
@@ -83,11 +78,6 @@ body{
   position: absolute;
   left: 10%;
   top: 82%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .b{
@@ -100,11 +90,6 @@ body{
   position: absolute;
   left: 10%;
   top: 119%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .c{
@@ -117,76 +102,42 @@ body{
   position: absolute;
   left: 10%;
   top: 200%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .B{
   position: absolute;
   left: 10%;
   top: 215%;
-  font-family: Tekton Pro;
-  font-size: 25px;  
-  font color: black;
-  font-weight: bold;
 }
 
 .class{
   position: absolute;
   left: 10%;
   top: 220%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .dalam{
   position: absolute;
   left: 10%;
   top: 235%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .pada{
   position: absolute;
   left: 10%;
   top: 247%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .array{
   position: absolute;
   left: 10%;
   top: 262%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 .interface{
   position: absolute;
   left: 10%;
   top: 277%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1080px;
-  text-align: justify;
 }
 
 ul{

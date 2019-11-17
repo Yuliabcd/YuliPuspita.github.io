@@ -9,6 +9,7 @@ body{
 	height: 525px;
 	left: 0%;
 	top: 2%;
+
 }
 
 .taksbar{
@@ -20,7 +21,7 @@ body{
 .search{
 	position: absolute;
 	left: 60%;
-	top: 45%;
+	top: 48%;
 	width: 80px;
 	height: 30px;
 	font-family: Segoe UI;
@@ -34,7 +35,7 @@ body{
 .ksearch{
 	position: absolute;
 	left: 35%;
-	top: 45%;
+	top: 48%;
 	width: 300px;
 	height: 24px;
 	font-size: 15px;
@@ -43,25 +44,23 @@ body{
 }
 
 .dis{
-	position: absolute;
-	left: 37%;
-	top: 28%;
-	width: 350px;
-	height: 24px;
 	font-family: Schadow BT;
 	font-size: 25px;
 	color: white;
+
 }
 
 .kotakdis{
 	position: absolute;
 	top: 30%;
 	left: 35%;
-	width: 415px;
-	height: 85px;
+	width: 410px;
+	height: 100px;
 	background: black;
 	border-radius: 18px;
+	margin-bottom: 15px;
 	opacity: 0.9;
+	text-align: center;
 }
 
 div .sel{
@@ -95,7 +94,7 @@ div p{
 }
 
 .kotak1{
-	top: 91%;
+	top: 5%;
 	left: 6%;
 	width: 310px;
 	height: 210px;
@@ -103,20 +102,20 @@ div p{
 
 .teks1{
 	position: absolute;
-	top: 90%;
+	top: 4%;
 	left: 8%
 }
 
 .te{
 	position: absolute;
-	top: 97%;
+	top: 12%;
 	left: 7%;
 	width: 300px;
 	height: 200px;	
 }
 
 .kotak2{
-	top: 91%;
+	top: 5%;
 	left: 38%;
 	width: 310px;
 	height: 210px;
@@ -124,20 +123,20 @@ div p{
 
 .teks2{
 	position: absolute;
-	top: 90%;
+	top: 4%;
 	left: 38.5%
 }
 
 .tee{
 	position: absolute;
-	top: 97%;
+	top: 12%;
 	left: 39%;
 	width: 300px;
 	height: 200px;	
 }
 
 .kotak3{
-	top: 91%;
+	top: 5%;
 	left: 69%;
 	width: 310px;
 	height: 210px;
@@ -145,20 +144,20 @@ div p{
 
 .teks3{
 	position: absolute;
-	top: 90%;
+	top: 4%;
 	left: 71%
 }
 
 .teee{
 	position: absolute;
-	top: 97%;
+	top: 12%;
 	left: 70%;
 	width: 300px;
 	height: 200px;	
 }
 
 .kotak4{
-	top: 130%;
+	top: 55%;
 	left: 6%;
 	width: 310px;
 	height: 210px;
@@ -166,20 +165,20 @@ div p{
 
 .teks4{
 	position: absolute;
-	top: 130%;
+	top: 54%;
 	left: 9%;
 }
 
 .le{
 	position: absolute;
-	top: 137%;
+	top: 62%;
 	left: 7%;
 	width: 300px;
 	height: 200px;	
 }
 
 .kotak5{
-	top: 130%;
+	top: 55%;
 	left: 38%;
 	width: 310px;
 	height: 210px;
@@ -187,20 +186,20 @@ div p{
 
 .teks5{
 	position: absolute;
-	top: 130%;
+	top: 54%;
 	left: 40%;
 }
 
 .lee{
 	position: absolute;
-	top: 137%;
+	top: 62%;
 	left: 39%;
 	width: 300px;
 	height: 200px;	
 }
 
 .kotak6{
-	top: 130%;
+	top: 55%;
 	left: 69%;
 	width: 310px;
 	height: 210px;
@@ -208,13 +207,13 @@ div p{
 
 .teks6{
 	position: absolute;
-	top: 130%;
+	top: 54%;
 	left: 74%;
 }
 
 .leee{
 	position: absolute;
-	top: 137%;
+	top: 62%;
 	left: 70%;
 	width: 300px;
 	height: 200px;	
@@ -228,6 +227,19 @@ div p{
 	height: 550px;
 	background: #1E1E1E;
 	border-radius: 18px;
+}
+
+.footer{
+	width : 100%;
+	height : 25px;
+	padding-top : 3px;
+	background-color : #414141;
+	color : white;
+	font-size : 10pt;
+	text-align : center;
+	position: fixed;
+	left: 0%;
+	bottom: 0px;
 }
 
 ul{

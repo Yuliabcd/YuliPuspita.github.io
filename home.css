@@ -265,3 +265,25 @@ li a {
   	text-decoration: none;
   	font-size: 17pt;
 }
+
+@media screen and (max-width: 900px){
+	.kotakdis{
+		width: 43vw;
+	}
+	.ksearch{
+		width: 30vw;
+	}
+	.search{
+		width: ;
+	}
+	.kotakabu{
+		width: 90vw;
+	}
+	.kotak1{
+		width: 50vw;
+		margin-top: 3px;
+	}
+	.kotak2{
+		width: 43vw;
+	}
+}

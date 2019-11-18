@@ -50,9 +50,13 @@ label{
 	color: #00008B;
 }
 
-a .buat{
+label a .buat{
 	font-size: 10pt;
 	color: red;
+	font color: red;
+  	list-style-type: none;
+  	text-decoration: none;
+
 }
 
 .b_login{
@@ -90,4 +94,17 @@ li a {
   padding: 14px 18px;
   text-decoration: none;
   font-size: 17pt;
+}
+
+@media screen and (max-width: 900px){
+	.kotaklogin{
+		width: 50vw;
+	}
+	.login{
+		width: 35vw;
+	}
+	.b_login{
+		width: 35vw;
+		position: all;
+	}
 }

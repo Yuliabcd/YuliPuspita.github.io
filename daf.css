@@ -8,15 +8,14 @@
 	position: fixed;
 }
 .kotakmasuk{
+	display: absolute;
 	text-align: center;
 	background: #676060;
 	width: 800px;
-	height: 700px;
+	height: 650px;
 	border-radius: 30px;
 	font-size: 15pt;
-	margin: 220px;
-	margin-top: 85px;
-	margin-bottom: 70px;
+	margin: auto;
 }
 
 .Daftar{

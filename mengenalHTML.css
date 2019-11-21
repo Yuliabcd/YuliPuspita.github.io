@@ -1,0 +1,118 @@
+body{
+  font-family: Segoe UI;
+  background : #56BBB1;
+}
+
+.taksbar{
+  color: #56BBB1;
+  position: fixed;
+  width: 1366px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+
+}
+
+.kotakabu{
+  background : #D9D7D7;
+  position: absolute;
+  width: 100%;
+  height: 10%;
+  left: 0px;
+  top: 58px;
+}
+
+.mari{
+  position: absolute;
+	left: 36%;
+ 	top: 7%;
+ 	font-family: Sitka Small;
+ 	font-size: 30px;
+}
+
+.mengenal{
+	position: absolute;
+  left: 40%;
+  top: 18%;
+  font-family: Berlin Sans FB;
+	font-size: 25px;	
+}
+
+.html, .adapun, .untuk, .contoh, .berikut{
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  width: 1000px;
+  text-align: justify;
+}
+
+.html{
+  position: absolute;
+  left: 10%;
+  top: 26%;
+}
+
+.adapun{
+	position: absolute;
+  left: 10%;
+  top: 35%;
+}
+
+.untuk{
+	position: absolute;
+  left: 10%;
+	top: 44%;
+}
+
+.contoh{
+	position: absolute;
+  left: 10%;
+	top: 57%;
+}
+
+.a{
+	position: absolute;
+	left: 25%;
+	top: 65%;
+}
+
+.berikut{
+	position: absolute;
+  left: 10%;
+  top: 105%;
+}
+
+.b{
+	position: absolute;
+  left: 10%;
+  top: 115%;
+  font-family: Berlin Sans FB;
+  width: 1100px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333
+
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+  font-size: 17pt;
+}

@@ -1,0 +1,51 @@
+.trans-bg-login{
+	width: 100%;
+	min-height: 100vh;
+	position: fixed;
+	display: none;
+	background-color: rgba(0,0,0,.4);
+	padding-top: 50px;
+}
+
+.kotaklogin{
+	display: absolute;
+	text-align: center;
+	background: #676060;
+	width: 800px;
+	height: 500px;
+	border-radius: 10px;
+	font-size: 15pt;
+	margin: auto;
+}
+
+.Login{
+	text-align: center;
+	font-size: 18pt;
+}
+
+.form{
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.belum{
+	font-size: 10pt;
+	color: #00008B;
+}
+
+
+.b_login{
+	width: 200px;
+	height: 50px;
+	background: #2B9B36;
+	font-size: 12pt;
+	font-family: Segoe UI;
+	margin: 70px;
+*{
+	box-sizing: border-box;
+}

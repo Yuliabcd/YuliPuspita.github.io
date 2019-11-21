@@ -1,0 +1,94 @@
+
+.trans-bg-daftar{
+	text-align: center;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0,0,0,.4);
+	display: none;
+	position: fixed;
+}
+.kotakmasuk{
+	text-align: center;
+	background: #676060;
+	width: 800px;
+	height: 700px;
+	border-radius: 30px;
+	font-size: 15pt;
+	margin: 220px;
+	margin-top: 85px;
+	margin-bottom: 70px;
+}
+
+.Daftar{
+	text-align: center;
+	font-size: 18pt;
+}
+
+.label{
+	font-size: 11pt;
+	font-family: Segoe UI;
+}
+
+.first{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.last{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.mail{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.no{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.Password{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+}
+
+.join{
+	width: 200px;
+	height: 50px;
+	background: #2B9B36;
+	font-size: 12pt;
+	font-family: Segoe UI;
+	margin: 70px;
+}

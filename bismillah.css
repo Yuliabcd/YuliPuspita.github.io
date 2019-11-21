@@ -1,0 +1,194 @@
+body{
+	font-family: Segoe UI;
+	background-color: #77C8C0;
+}
+
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+/*.full{
+	width:100%;
+	height: 100%;
+}*/
+.w-100{
+	width: 100%;
+}
+
+.bg{
+	width: 100%;
+	background-image: url(11.png);
+	height: 75vh;
+	padding-top: 180px;
+}
+.baju{
+	margin: auto;
+}
+
+.taksbar{
+	width: 100%;
+	justify-content: space-around;
+	align-content: right;
+	display: flex;
+	background-color: #1E1E1E;
+	padding: 10px;
+}
+
+.judul{
+	text-decoration : none;
+	color: white;
+}
+.list, .list2{
+	margin: 5px;
+}
+.list-log{
+	display: flex;
+	flex-wrap: wrap;
+}
+.list li{
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.list li a, .list-log li a{
+	color: white;
+	text-decoration: none;
+}
+
+.list2 li, .list-log li{
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.list2 li a{
+	color: white;
+	text-decoration: none;
+}
+
+.search{
+	/*position: absolute;*/
+	/*top: 50%;
+	left: 66%;
+	transform: translate(-50%,-50%);*/
+	padding: 10px;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	border: none;
+	margin: auto;
+}
+
+.ksearch{
+	/*position: absolute;*/
+	width: 300px;
+	/*top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);*/
+	padding: 10px;
+	margin: auto;
+	border-radius: 5px;
+}
+.form{
+	margin: auto;
+	width: 40%;
+	text-align: center;
+}
+
+.dis{
+	font-family: Schadow BT;
+	font-size: 25px;
+	color: white;
+
+
+}
+
+.kotakdis{
+	padding-top: 20px;
+	width: 410px;
+	height: 100px;
+	background: black;
+	border-radius: 18px;
+	margin-bottom: 15px;	
+	text-align: center;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+h3{
+	font-family: Copperplate Gothic;
+	font-size: 25px;
+	color: black;
+}
+
+.kmateri{
+	width: 100%;
+	background: grey;
+	text-align: center;
+	padding: 20px;
+}
+
+.kotakabu{
+
+	width: 90%;
+	margin: auto;
+	background-color: #1E1E1E;
+	border-radius: 18px;
+	display: flex;
+	padding: 20px;
+	margin-top: 10px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.teks1, .teks2, .teks3, .teks4,.teks5, .teks6{
+	width: 350px;
+	background-image: url(111.jpg);
+	margin-top: 15px;
+	border-radius: 5px;
+	padding: 10px;
+}
+h2 a{
+	justify-content: center;
+	text-align: center;
+}
+.teks1 p, .teks2 p, .teks3 p, .teks4 p,.teks5 p, .teks6 p{
+	text-align: left;
+}
+
+.sel{
+	float: left;
+}
+
+.footer{
+	width : 100%;
+	text-align: center;
+	background-color: #1E1E1E;
+	margin-top: 20px;
+	padding: 20px;
+	color: white;
+}
+
+
+@media (min-width: 684px){
+	.list{
+		display: flex;
+	}
+}
+@media (max-width: 683px){
+	/*.list{
+		display: none;
+	}*/
+	.baju{
+		width: 80%;
+	}
+	.form{
+		width: 100%;
+	}
+	.kotakdis{
+		width: 90%;
+	}
+	.search{
+		margin-top: 10px;
+	}
+}
